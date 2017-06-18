@@ -1,6 +1,6 @@
 {
   "name": "taskr-xo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "XO plugin for Taskr",
   "repository": "https://github.com/lukeed/taskr-xo",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "files": [
     "index.js"
   ],
-  "keywords":[
+  "keywords": [
     "taskr",
     "taskr-plugin",
     "xo",
