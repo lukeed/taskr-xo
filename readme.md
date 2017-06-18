@@ -1,4 +1,4 @@
-# @taskr/xo [![npm](https://img.shields.io/npm/v/taskr-xo.svg)](https://npmjs.org/package/taskr-xo)
+# taskr-xo [![TravisCI](http://img.shields.io/travis/lukeed/taskr-xo.svg?style=flat-square)](https://travis-ci.org/lukeed/taskr-xo) [![npm](https://img.shields.io/npm/v/taskr-xo.svg?style=flat-square)](https://npmjs.org/package/taskr-xo)
 
 > [XO](https://github.com/sindresorhus/xo) plugin for [Taskr](https://github.com/lukeed/taskr).
 
